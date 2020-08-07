@@ -1,0 +1,30 @@
+#divBusca{
+    background-color: white;
+    border-color: wheat;
+    width:300px;
+  }
+  
+  #txtBusca {
+    float: right;
+    padding-left:5px;
+    font-size:14px;
+    border:none;
+    height:32px;
+    width:260px;
+  }
+
+  #iconeBuscar {
+    background-color: white;
+    border-color: transparent;
+  }
+
+  .breadcrumbs a {
+    color: #007 !important; /* override the color of the link back to default */
+}
+
+#barrapesquisa {
+  border-radius: 5px; 
+  border: 1px gray;
+  margin-top: 5px;
+  height: 32px;
+}
